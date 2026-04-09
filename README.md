@@ -6,4 +6,3 @@ Token Name : Vian Bird Farm
 Symbol : VIAN
 Contract Address : 0x0cD72Db0A2b092eeE8e805553FB84A87e96207cA
 Decimal : 18
-
